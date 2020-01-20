@@ -1,0 +1,11 @@
+E:\05.Phermone\04.Screper Website C#\05.ScrapeWeb.HotelYar\ScrapeWeb\ScrapeWeb.HotelYar\obj\Debug\netcoreapp2.2\ScrapeWeb.HotelYar.csprojAssemblyReference.cache
+E:\05.Phermone\04.Screper Website C#\05.ScrapeWeb.HotelYar\ScrapeWeb\ScrapeWeb.HotelYar\obj\Debug\netcoreapp2.2\ScrapeWeb.HotelYar.csproj.CoreCompileInputs.cache
+E:\05.Phermone\04.Screper Website C#\05.ScrapeWeb.HotelYar\ScrapeWeb\ScrapeWeb.HotelYar\obj\Debug\netcoreapp2.2\ScrapeWeb.HotelYar.AssemblyInfoInputs.cache
+E:\05.Phermone\04.Screper Website C#\05.ScrapeWeb.HotelYar\ScrapeWeb\ScrapeWeb.HotelYar\obj\Debug\netcoreapp2.2\ScrapeWeb.HotelYar.AssemblyInfo.cs
+E:\05.Phermone\04.Screper Website C#\05.ScrapeWeb.HotelYar\ScrapeWeb\ScrapeWeb.HotelYar\bin\Debug\netcoreapp2.2\ScrapeWeb.HotelYar.deps.json
+E:\05.Phermone\04.Screper Website C#\05.ScrapeWeb.HotelYar\ScrapeWeb\ScrapeWeb.HotelYar\bin\Debug\netcoreapp2.2\ScrapeWeb.HotelYar.runtimeconfig.json
+E:\05.Phermone\04.Screper Website C#\05.ScrapeWeb.HotelYar\ScrapeWeb\ScrapeWeb.HotelYar\bin\Debug\netcoreapp2.2\ScrapeWeb.HotelYar.runtimeconfig.dev.json
+E:\05.Phermone\04.Screper Website C#\05.ScrapeWeb.HotelYar\ScrapeWeb\ScrapeWeb.HotelYar\bin\Debug\netcoreapp2.2\ScrapeWeb.HotelYar.dll
+E:\05.Phermone\04.Screper Website C#\05.ScrapeWeb.HotelYar\ScrapeWeb\ScrapeWeb.HotelYar\bin\Debug\netcoreapp2.2\ScrapeWeb.HotelYar.pdb
+E:\05.Phermone\04.Screper Website C#\05.ScrapeWeb.HotelYar\ScrapeWeb\ScrapeWeb.HotelYar\obj\Debug\netcoreapp2.2\ScrapeWeb.HotelYar.dll
+E:\05.Phermone\04.Screper Website C#\05.ScrapeWeb.HotelYar\ScrapeWeb\ScrapeWeb.HotelYar\obj\Debug\netcoreapp2.2\ScrapeWeb.HotelYar.pdb
